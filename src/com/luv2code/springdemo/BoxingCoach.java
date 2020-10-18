@@ -8,4 +8,10 @@ public class BoxingCoach implements Coach {
 		return "punch * 5hours";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO 自動生成されたメソッド・スタブ
+		return null;
+	}
+
 }
